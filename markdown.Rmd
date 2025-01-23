@@ -1,7 +1,7 @@
 ---
 title: "Literate Programming"
-author: "Austin Hart"
-date: January 22
+author: "Santiago Taborga"
+date: January 22, 2025
 output: pdf_document
 ---
 
